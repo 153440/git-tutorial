@@ -2,3 +2,4 @@
 
   -fix-B
   -f-A
+  -fea-C
